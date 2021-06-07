@@ -1,5 +1,5 @@
 <?php
 
-include_once("Shamanook")
+include_once("index.html")
 
 ?>
